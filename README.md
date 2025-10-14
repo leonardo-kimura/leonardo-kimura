@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Olá! Eu sou o Leonardo Kimura<br>- Estou cursando Sistemas de Informação <br>- Estudando: Python, C, HTML, CSS
+## Olá! Eu sou o Leonardo Kimura<br>- Cursando Sistemas de Informação <br>- Estudando: Python, C, HTML, CSS
 
 
 # 💻 Tech Stack:
